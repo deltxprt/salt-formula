@@ -1,4 +1,4 @@
-all.packages:
+all:
   pkg.installed:
     - pkgs:
       - nano
